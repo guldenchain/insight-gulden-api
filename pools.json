@@ -32,24 +32,24 @@
 		]
 	},
 	{
-		"poolName": "LTC.TOP",
+		"poolName": "NLG.TOP",
 		"url": "http://",
 		"searchStrings": [
-			"LTC.TOP"
+			"NLG.TOP"
 		]
 	},
 	{
-	  	"poolName": "LitecoinPool",
-	  	"url": "https://litecoinpool.org",
+	  	"poolName": "GuldenPool",
+	  	"url": "https://guldenpool.org",
 	  	"searchStrings": [
 		  	"/LP/"
 		]
 	},
 	{
-	  	"poolName": "ViaLTC",
+	  	"poolName": "ViaNLG",
 	  	"url": "https://www.vialtc.com/",
 	  	"searchStrings": [
-		  	"/ViaLTC/"
+		  	"/ViaNLG/"
 		]
 	},
 	{
