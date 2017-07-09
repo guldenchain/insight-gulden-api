@@ -1,7 +1,7 @@
 {
   "name": "insight-gulden-api",
   "description": "A Gulden blockchain REST and web socket API service for Guldencore Node.",
-  "version": "0.4.4",
+  "version": "0.4.6",
   "repository": "git://github.com/guldenchain/insight-gulden-api.git",
   "contributors": [
     {

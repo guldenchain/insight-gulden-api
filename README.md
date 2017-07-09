@@ -364,7 +364,7 @@ POST response:
   /insight-api/peer
 ```
 
-### Status of the Bitcoin Network
+### Status of the Gulden Network
 ```
   /insight-api/status?q=xxx
 ```
